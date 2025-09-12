@@ -1,0 +1,4 @@
+
+cd "D:\c code\Internship project\Django-React-Social-Media\backend"
+venv\Scripts\Activate
+python manage.py runserver
